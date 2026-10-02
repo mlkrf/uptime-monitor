@@ -1,6 +1,6 @@
 # Uptime Monitor
 
-A small Python networking utility that checks whether websites are reachable and measures their response time.
+A small Python networking tool that checks whether websites are reachable and measures their response time.
 
 ## Features
 
